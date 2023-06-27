@@ -6,6 +6,9 @@
 void main(){
 int A;
 clrscr();
+printf("=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*\n");
+printf("Programe to find Even or Odd number\n");
+printf("=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*\n\n");
 printf("-*-*-*-*-*-*-*-*-*-\n");
 printf("Enter any number :");
 scanf("%d",&A);
